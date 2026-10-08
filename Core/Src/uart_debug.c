@@ -2,14 +2,19 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
+
 static UART_HandleTypeDef *debug_uart;
 static UART_DebugLevel threshold = UART_LOG_INFO;
+
 void UART_Debug_Init(UART_HandleTypeDef *huart) {
 	debug_uart = huart;
+
 }
+
 void UART_Debug_SetLevel(UART_DebugLevel level) {
 	threshold = level;
 }
+
 HAL_StatusTypeDef UART_Debug_Print(const char *str) {
 	if (!str)
 		return HAL_ERROR;

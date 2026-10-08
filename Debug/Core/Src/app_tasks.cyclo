@@ -1,3 +1,4 @@
-../Core/Src/app_tasks.c:12:13:KeypadTask	2
-../Core/Src/app_tasks.c:33:13:LedTask	1
-../Core/Src/app_tasks.c:46:6:AppTasks_Init	3
+../Core/Src/app_tasks.c:36:13:KeypadTask	2
+../Core/Src/app_tasks.c:71:13:ControllerTask	2
+../Core/Src/app_tasks.c:102:13:LedTask	1
+../Core/Src/app_tasks.c:123:6:AppTasks_Init	5

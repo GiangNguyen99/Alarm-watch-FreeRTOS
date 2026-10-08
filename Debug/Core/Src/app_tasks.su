@@ -1,3 +1,4 @@
-../Core/Src/app_tasks.c:12:13:KeypadTask	24	static
-../Core/Src/app_tasks.c:33:13:LedTask	16	static
-../Core/Src/app_tasks.c:46:6:AppTasks_Init	80	static
+../Core/Src/app_tasks.c:36:13:KeypadTask	24	static
+../Core/Src/app_tasks.c:71:13:ControllerTask	24	static
+../Core/Src/app_tasks.c:102:13:LedTask	16	static
+../Core/Src/app_tasks.c:123:6:AppTasks_Init	120	static
