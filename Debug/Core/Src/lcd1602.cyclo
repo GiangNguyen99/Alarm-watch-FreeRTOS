@@ -1,0 +1,8 @@
+../Core/Src/lcd1602.c:8:26:nibble	2
+../Core/Src/lcd1602.c:16:26:byte	2
+../Core/Src/lcd1602.c:21:26:command	4
+../Core/Src/lcd1602.c:28:19:LCD_Clear	2
+../Core/Src/lcd1602.c:35:19:LCD_Init	8
+../Core/Src/lcd1602.c:62:19:LCD_SetCursor	5
+../Core/Src/lcd1602.c:71:19:LCD_Print	6
+../Core/Src/lcd1602.c:84:19:LCD_PrintLine	6

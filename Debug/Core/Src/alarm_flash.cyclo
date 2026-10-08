@@ -1,0 +1,2 @@
+../Core/Src/alarm_flash.c:10:9:AlarmFlash_Load	9
+../Core/Src/alarm_flash.c:45:19:AlarmFlash_Save	9

@@ -1,0 +1,12 @@
+../Core/Src/ds3231.c:7:16:dec	16	static
+../Core/Src/ds3231.c:11:16:bcd	16	static
+../Core/Src/ds3231.c:15:16:bcd_valid	16	static
+../Core/Src/ds3231.c:19:16:month_days	16	static
+../Core/Src/ds3231.c:25:9:DS3231_Validate	24	static
+../Core/Src/ds3231.c:29:6:DS3231_Init	16	static
+../Core/Src/ds3231.c:33:19:DS3231_IsReady	8	static
+../Core/Src/ds3231.c:37:19:DS3231_TimeValid	40	static
+../Core/Src/ds3231.c:49:19:DS3231_Read	56	static
+../Core/Src/ds3231.c:80:19:DS3231_SetDateTime	56	static
+../Core/Src/ds3231.c:125:18:DS3231_GetLastWriteStep	4	static
+../Core/Src/ds3231.c:129:10:DS3231_GetLastI2CError	4	static

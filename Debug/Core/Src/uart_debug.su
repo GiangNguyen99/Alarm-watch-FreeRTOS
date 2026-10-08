@@ -1,0 +1,6 @@
+../Core/Src/uart_debug.c:7:6:UART_Debug_Init	16	static
+../Core/Src/uart_debug.c:10:6:UART_Debug_SetLevel	16	static
+../Core/Src/uart_debug.c:13:19:UART_Debug_Print	24	static
+../Core/Src/uart_debug.c:28:26:print_args	152	static
+../Core/Src/uart_debug.c:39:19:UART_Debug_Printf	16	static
+../Core/Src/uart_debug.c:46:19:UART_Debug_Log	28	static

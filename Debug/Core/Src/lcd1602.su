@@ -1,0 +1,8 @@
+../Core/Src/lcd1602.c:8:26:nibble	32	static
+../Core/Src/lcd1602.c:16:26:byte	24	static
+../Core/Src/lcd1602.c:21:26:command	24	static
+../Core/Src/lcd1602.c:28:19:LCD_Clear	16	static
+../Core/Src/lcd1602.c:35:19:LCD_Init	40	static
+../Core/Src/lcd1602.c:62:19:LCD_SetCursor	24	static
+../Core/Src/lcd1602.c:71:19:LCD_Print	24	static
+../Core/Src/lcd1602.c:84:19:LCD_PrintLine	40	static
