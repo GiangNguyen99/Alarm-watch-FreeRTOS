@@ -30,7 +30,7 @@ Core/Src/app_tasks.o: ../Core/Src/app_tasks.c ../Core/Inc/app_tasks.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
- ../Core/Inc/keypad.h ../Core/Inc/uart_debug.h
+ ../Core/Inc/keypad.h ../Core/Inc/ds3231.h ../Core/Inc/uart_debug.h
 ../Core/Inc/app_tasks.h:
 ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h:
 ../Core/Inc/main.h:
@@ -65,4 +65,5 @@ Core/Src/app_tasks.o: ../Core/Src/app_tasks.c ../Core/Inc/app_tasks.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
 ../Core/Inc/keypad.h:
+../Core/Inc/ds3231.h:
 ../Core/Inc/uart_debug.h:
