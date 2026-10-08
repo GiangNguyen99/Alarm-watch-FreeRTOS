@@ -1,5 +1,6 @@
-../Core/Src/app_tasks.c:60:13:KeypadTask	32	static
-../Core/Src/app_tasks.c:93:13:RtcTask	48	static
-../Core/Src/app_tasks.c:144:13:ControllerTask	72	static
-../Core/Src/app_tasks.c:227:13:LedTask	16	static
-../Core/Src/app_tasks.c:244:6:AppTasks_Init	152	static
+../Core/Src/app_tasks.c:83:13:KeypadTask	32	static
+../Core/Src/app_tasks.c:118:13:RtcTask	48	static
+../Core/Src/app_tasks.c:174:13:ControllerTask	72	static
+../Core/Src/app_tasks.c:280:13:DisplayTask	112	static
+../Core/Src/app_tasks.c:399:13:LedTask	16	static
+../Core/Src/app_tasks.c:418:6:AppTasks_Init	192	static
